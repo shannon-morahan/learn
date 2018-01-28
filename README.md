@@ -1,5 +1,5 @@
 # Machine Learning
-Repository containing some machine learning projects of mine and others
+Repository containing some machine learning goodness
 
 # Links
 Docker repository for TensorFlow: 
